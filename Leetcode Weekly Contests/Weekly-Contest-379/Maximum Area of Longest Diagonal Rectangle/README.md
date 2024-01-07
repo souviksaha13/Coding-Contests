@@ -1,4 +1,4 @@
-# Maximum Area of Longest Diagonal Rectangle
+# [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)
 Difficulty:Easy
 <br>
 You are given a 2D 0-indexed integer array dimensions.

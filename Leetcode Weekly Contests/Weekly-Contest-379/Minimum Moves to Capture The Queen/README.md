@@ -1,4 +1,4 @@
-# [Minimum Moves to Capture The Queen](https://leetcode.com/contest/weekly-contest-379/problems/minimum-moves-to-capture-the-queen/)
+# [Minimum Moves to Capture The Queen](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/)
 Difficulty:Medium
 <br>
 There is a 1-indexed 8 x 8 chessboard containing 3 pieces.
