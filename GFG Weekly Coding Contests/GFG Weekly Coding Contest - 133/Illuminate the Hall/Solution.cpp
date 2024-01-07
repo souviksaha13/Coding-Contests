@@ -1,3 +1,9 @@
+/*
+Refer this link, for better understanding: https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
+
+Qs on leetcode with same concept.
+*/
+
 class Solution{
     public:
     int min_lights(int hallway[], int n)
