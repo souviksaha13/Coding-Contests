@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * Solution4
- */
 public class Solution {
 
 
